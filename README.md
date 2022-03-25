@@ -1,6 +1,6 @@
 # helloGithub
 
-hello, Github
+hello, Github.
 I started Github for my life and happiness.
 I hope to be a good developer.
 
